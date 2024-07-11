@@ -1,0 +1,47 @@
+# Query: richard
+# ContextLines: 1
+
+11 results - 2 files
+
+index.html:
+   44          <figure class="avatar-box">
+   45:           <img src="./assets/images/my-avatar.png" alt="Sirjames" width="80">
+   46          </figure>
+
+  371                    <p>
+  372:                     Richard was hired to create a corporate identity. We were very pleased with the work done. She has a
+  373                      lot of experience
+
+  393                    <p>
+  394:                     Richard was hired to create a corporate identity. We were very pleased with the work done. She has a
+  395                      lot of experience
+
+  439                  <p>
+  440:                   Richard was hired to create a corporate identity. We were very pleased with the work done. She has a
+  441                    lot of experience
+
+index.txt:
+   4  
+   5: alt = Sirjames
+   6: Sirjames
+   7  Web developer
+
+  11  Email
+  12: jamezstark7@gmail.com
+  13  
+
+  66  Daniel lewis
+  67: Sirjames was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+  68  
+
+  70  Jessica miller
+  71: Sirjames was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+  72  
+
+  74  Emily evans
+  75: Sirjames was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+  76  
+
+  78  Henry william
+  79: Sirjames was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+  80  
